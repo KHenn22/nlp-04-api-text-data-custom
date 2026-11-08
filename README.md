@@ -1,4 +1,4 @@
-# nlp-04-api-text-data
+# nlp-04-api-text-data-custom
 
 [![Python 3.14](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](pyproject.toml)
 [![CI](https://github.com/denisecase/nlp-04-api-text-data/actions/workflows/ci-python-zensical.yml/badge.svg)](https://github.com/denisecase/nlp-04-api-text-data/actions/workflows/ci-python-zensical.yml)
@@ -13,9 +13,9 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Kevin Hennelly
 
-Date: 2026 October
+Date: 2026 November
 
 Fourth project in the Web Mining and Applied NLP course.
 
@@ -129,7 +129,7 @@ uv run python -m pytest
 
 ## Project Documentation
 
-The [hosted documentation site](https://denisecase.github.io/nlp-04-api-text-data/)
+The [hosted documentation site](https://khenn22.github.io/nlp-04-api-text-data-custom/)
 is published using Zensical and GitHub Pages.
 
 The documentation site is used to present the project report,
@@ -143,8 +143,8 @@ to check project files and publish the docs.
 
 GitHub Actions include:
 
-- [CI: Python and Documentation Checks](https://github.com/denisecase/nlp-04-api-text-data/actions/workflows/ci-python-zensical.yml)
-- [CD: Documentation Deployment](https://github.com/denisecase/nlp-04-api-text-data/actions/workflows/deploy-zensical.yml)
+- [CI: Python and Documentation Checks](https://github.com/KHenn22/nlp-04-api-text-data-custom/actions/workflows/ci-python-zensical.yml)
+- [CD: Documentation Deployment](https://github.com/KHenn22/nlp-04-api-text-data-custom/actions/workflows/deploy-zensical.yml)
 
 ## Developer Reference
 
