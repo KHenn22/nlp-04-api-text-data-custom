@@ -1,5 +1,8 @@
 """config.py.
 
+Author: Kevin Hennelly
+Date: 2026-11
+
 (EDIT YOUR VERSION OF THIS FILE)
 
 Purpose
