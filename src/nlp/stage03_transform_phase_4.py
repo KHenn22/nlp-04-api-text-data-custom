@@ -1,4 +1,4 @@
-"""stage03_transform_hennelly.py.
+"""stage03_transform_phase_4.py.
 
 Author: Kevin Hennelly
 Date: 2026-11
