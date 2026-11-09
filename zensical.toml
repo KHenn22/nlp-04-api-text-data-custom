@@ -1,7 +1,7 @@
 # ============================================================
 # zensical.toml (ALL-PY-REPOS)
 # ============================================================
-# Updated: 2026-10-11
+# Updated: 2026-11-09
 #
 # WHAT: A configuration file for building a professional project website.
 #       Zensical converts Markdown documentation into a navigable website.
@@ -53,9 +53,9 @@
 
 [project]
 site_name = "Docs" # CUSTOM: Set the name that appears in the browser tab.
-site_url = "https://denisecase.github.io/nlp-04-api-text-data/"
-repo_url = "https://github.com/denisecase/nlp-04-api-text-data"
-repo_name = "nlp-04-api-text-data"
+site_url = "https://khenn22.github.io/nlp-04-api-text-data-custom/"
+repo_url = "https://github.com/KHenn22/nlp-04-api-text-data-custom"
+repo_name = "nlp-04-api-text-data-custom"
 site_description = "Project Documentation" # CUSTOM: Set the description.
 docs_dir = "docs" # source directory for documentation markdown files
 site_dir = "site" # output directory for generated site (ignored by Git; not in repo)
